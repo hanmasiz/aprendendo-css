@@ -1,0 +1,25 @@
+* {
+    margin: 0px; /* Espaçamento externo */
+    padding: 0px; /* Espaçamento Interno */
+}
+
+h1 {
+    color: orangered; /* Adiciona Cor na letra */
+    background-color: seagreen; /* Adiciona Cor No Fundo */
+    font-size: 50px ; /* Tamanho da Fonte */
+    margin: 20px; /* Espaçamento externo */
+    padding: 20px; /* Espaçamento Interno */
+    text-transform: uppercase;/* letra maiuscula */
+    font-weight: bold;/* espessura da fonte */
+    font-family: monospace; /* estilo da fonte */
+    letter-spacing: 5px; /* espaçamento entre as letras */
+    text-align: center; /* centralizar texto */
+
+    border-radius: 5px; /* arredondamento */
+    border: solid black 5px; /* Borda */
+    box-shadow: black 5px 5px 20px; /* sombra */
+}
+
+p {
+    text-align: justify; /* se ajusta com o site */
+}
