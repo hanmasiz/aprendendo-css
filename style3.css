@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#bg-hanma {
+    background-color: pink;
+}
+
+.bg-azul{
+    background-color: rgb(50, 185, 238);
+}
+
+p{
+    background-color: rgb(5, 247, 46); 
+}
