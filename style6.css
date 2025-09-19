@@ -1,0 +1,46 @@
+*{  
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+div {
+    padding: 100px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg1, .bg3, .bg5 {
+    color: #fff;
+}
+
+p {
+    margin-top: 30px;
+}
+
+.bg1 {
+    background-image: url("./img/audi-rs6.jpg");
+}
+
+.bg2 {
+    background-image: url("./img/gol-quadrado.jpg");
+}
+
+.bg3 {
+    background-image: url("./img/bmw.preta.jpg");
+}
+
+.bg4 {
+    background-image: url("./img/Opala-SS.jpg");
+}
+
+.bg5 {
+    background-image: url("./img/caravan-ss.png");
+}
+
+.bg6 {
+    background-image: url("./img/saveiro-cl.jfif");
+}
